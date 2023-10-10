@@ -1,0 +1,3 @@
+﻿  Lab05.cpp
+C:\Users\heath\source\repos\Lab05\Lab05\Lab05.cpp(43): warning C4715: 'translate': not all control paths return a value
+  Lab05.vcxproj -> C:\Users\heath\source\repos\Lab05\x64\Debug\Lab05.exe
